@@ -1,5 +1,7 @@
 [[ attachments/_Logo.png ]]
 
+ADK Gheo Book by Tyler Moskowite
+
 == Useful Links
 * [[Home / TOC |home]]
 * https://github.com/MakerPress/gettingStartedGuide[View the Getting Started guide]
