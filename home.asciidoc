@@ -1,4 +1,7 @@
-* [[Frontmatter | frontmatter]]
+Getting Started with the Arduino Mega ADK is a thorough overview of what is capable with the official Arduino ADK board. It starts with a very brief explanation of what Arduino and Android are in case the reader is picking this subject up for the first time. Once the reader has a solid grasp of what they'll  be working with, the book gives a short overview of all the features included in the Arduino board such as: the purpose of  specialized pins (such as analog and digital Input/Output). 
+
+After the hardware overview, the reader will learn how to prepare their computer to program hardware with the Arduino IDE, Eclipse (or the Android programming IDE of their choice), and installing the SDK to get access to Google's libraries. Finally the reader will build two or three simple projects to experience how Android and Arduino can talk to each other ver the Arduino Mega ADK's USB Host interface. The book finishes with the reader learning how to access the remaining sensors and features (GPS, Wifi, Bluetooth, NFC, and etc.). When they're done, readers will be able to produce their own polished works of technical art.
+
 
 * [[Introduction / Foreword | introduction]]
 
