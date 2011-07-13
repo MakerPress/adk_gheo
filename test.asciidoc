@@ -1,5 +1,5 @@
 image::attachments/safari_oscon_ad.png[]
 
 ----
-include::attachments/my_test.svg[]
+include::attachments/mytest.svg[]
 ----
